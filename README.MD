@@ -1,3 +1,5 @@
+(fbef0102/Tickrate-Enabler will be removed in 2025/02, because 20.04 LTS no logner supports after 2025-04)
+
 ## Tickrate Enabler by ProdigySim
 
 ### Description
